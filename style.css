@@ -1,4 +1,12 @@
 .carousel-inner > .carousel-item > img {
     
-    max-height:360px;
+    max-height:450px;
+  }
+
+  .navbar-bold{
+    font-size: 2rem;
+  }
+
+  .navbar-span{
+    font-weight: bolder;
   }
